@@ -63,11 +63,13 @@ Originally launched in 2018, this e-learning project became a vital pillar for t
 
 <h2> <img width="25" height="25" alt="OBS_Studio_Logo svg" src="https://github.com/user-attachments/assets/365db0f5-5d2e-4e79-95be-29c1bd41b9ba" /> Instructor & Course Creator: OBS for Streaming </h2> 
 
-<img width="700" align="right" alt="obs-course" src="https://github.com/user-attachments/assets/a1a1ed08-ad1a-42a0-832a-48a8e95c532e" />
+<img width="600" align="right" alt="obs-course" src="https://github.com/user-attachments/assets/a1a1ed08-ad1a-42a0-832a-48a8e95c532e" />
 
 I designed and taught one of Platzi’s top-rated courses on OBS Studio, guiding students from beginner to advanced levels in live streaming and video production. As the course instructor, I developed a hands-on curriculum combining technical mastery with real-world broadcasting practices, making complex topics easy to understand and apply. My goal was to empower students not just to use OBS, but to think like professional streamers and content creators.
 
 This project allowed me to leverage my skills in instructional design, UX/UI, audiovisual production, and agile content development. I led the end-to-end creation of the course, from scripting to publishing, ensuring an engaging and practical learning experience. With hundreds of 5-star reviews, students consistently highlight the course’s clarity, structure, and real-life applicability, and I’m proud to have helped so many creators build their confidence and skills in the streaming space.
+
+&nbsp;
 
 <h2> Marketing & Multimedia Projects </h2> 
 
