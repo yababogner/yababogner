@@ -75,10 +75,21 @@ This project allowed me to leverage my skills in instructional design, UX/UI, au
 
 <div align="center">
 
-<img width="200" alt="Screenshot 2025-07-25 101518" src="https://github.com/user-attachments/assets/33239d47-ef4b-4fdb-997a-ad85bff065a5" />
-<img width="200" alt="Screenshot 2025-07-25 102019" src="https://github.com/user-attachments/assets/743648e5-bbf1-40ac-b319-4b8234b40831" />
-<img width="200" alt="Screenshot 2025-07-25 102251" src="https://github.com/user-attachments/assets/25052c28-40c1-43c7-907e-ad787bac0288" />
-<img width="200" alt="Screenshot 2025-07-25 102400" src="https://github.com/user-attachments/assets/13b3b20d-8691-4ad7-956a-28f9c0f2331b" />
+#### Esports
+
+<a href="https://youtu.be/Kv2rswmxBVs?t=3092"><img width="200" alt="Screenshot 2025-07-25 101518" src="https://github.com/user-attachments/assets/33239d47-ef4b-4fdb-997a-ad85bff065a5" /></a>
+<a href="https://youtu.be/djIy0sicM7w?t=899"><img width="200" alt="Screenshot 2025-07-25 102019" src="https://github.com/user-attachments/assets/743648e5-bbf1-40ac-b319-4b8234b40831" /></a>
+<a href="https://youtu.be/gCC4ct1XcsA?t=3542"><img width="200" alt="Screenshot 2025-07-25 102251" src="https://github.com/user-attachments/assets/25052c28-40c1-43c7-907e-ad787bac0288" /></a>
+<a href="https://www.youtube.com/watch?v=Pcsx6HreqAQ"><img width="200" alt="Screenshot 2025-07-25 102400" src="https://github.com/user-attachments/assets/13b3b20d-8691-4ad7-956a-28f9c0f2331b" /></a>
+
+#### E-Learning and Tech
+
+<a href="https://www.youtube.com/watch?v=7PphODDRXu8"><img width="200" alt="Screenshot 2025-07-25 120032" src="https://github.com/user-attachments/assets/8e744431-c733-4e4b-b56c-016f6cf07b92"/></a>
+<a href="https://www.youtube.com/watch?v=-fJoFKgTMM4"><img width="200" alt="Screenshot 2025-07-25 121601" src="https://github.com/user-attachments/assets/d00399d1-420e-4e41-bbc6-61937b283603" /></a>
+<a href="https://www.youtube.com/watch?v=xldqGA2moxs"><img width="200" alt="Screenshot 2025-07-25 120826" src="https://github.com/user-attachments/assets/ce571818-9132-47c2-8417-c6bdc8959ecd"/></a>
+<a href="https://www.youtube.com/watch?v=PLipTTpxrAc"><img width="200" alt="Screenshot 2025-07-25 121237" src="https://github.com/user-attachments/assets/de14f4d7-d5ff-46e5-b737-c9682a7680bc" /></a>
+
+#### Marketing and Branded Content
 
 </div>
 
