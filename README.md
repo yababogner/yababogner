@@ -49,7 +49,7 @@ I’m a Project Manager and Scrum Master with 8+ years of experience leading dig
 
 <h2> SCRUM Master for E-Learning Site Development </h2> 
 
-<img width="350" align="left" alt="Screenshot 2025-07-25 104318" src="https://github.com/user-attachments/assets/a9b91014-e474-4270-981b-71ad151c5990" />
+<a href="https://maximashabilidadesdirectivas.com/" target="_blank"><img width="350" align="left" alt="Screenshot 2025-07-25 104318" src="https://github.com/user-attachments/assets/a9b91014-e474-4270-981b-71ad151c5990" /></a>
 
 I served as the Scrum Master and project lead for the development of the e-learning platform, overseeing the entire project lifecycle. I led cross-functional teams in building the website, producing video lessons, and creating downloadable learning materials such as e-books and PDFs, as well as managing the UX/UI design. I ensured timely sprint deliveries while maintaining high-quality standards and aligning the product with both educational goals and user experience objectives.
 
@@ -63,7 +63,7 @@ Originally launched in 2018, this e-learning project became a vital pillar for t
 
 <h2> <img width="25" height="25" alt="OBS_Studio_Logo svg" src="https://github.com/user-attachments/assets/365db0f5-5d2e-4e79-95be-29c1bd41b9ba" /> Instructor & Course Creator: OBS for Streaming </h2> 
 
-<img width="550" align="right" alt="obs-course" src="https://github.com/user-attachments/assets/a1a1ed08-ad1a-42a0-832a-48a8e95c532e" />
+<a href="https://platzi.com/cursos/obs/" target="_blank"><img width="550" align="right" alt="obs-course" src="https://github.com/user-attachments/assets/a1a1ed08-ad1a-42a0-832a-48a8e95c532e" /></a>
 
 I designed and taught one of Platzi’s top-rated courses on OBS Studio, guiding students from beginner to advanced levels in live streaming and video production. As the course instructor, I developed a hands-on curriculum combining technical mastery with real-world broadcasting practices, making complex topics easy to understand and apply. My goal was to empower students not just to use OBS, but to think like professional streamers and content creators.
 
